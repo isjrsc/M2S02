@@ -1,0 +1,21 @@
+/* styles.css */
+
+/* Estilo para o título (h1) */
+h1 {
+    color: #333; /* Cor do texto */
+    font-family: Arial, sans-serif; /* Fonte */
+    margin-bottom: 20px; /* Margem inferior */
+}
+
+/* Estilo para o parágrafo (p) */
+p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Estilo para a lista não ordenada (ul) */
+ul {
+    list-style-type: disc; /* Tipo de marcador (ponto) */
+    margin-left: 20px; /* Espaçamento à esquerda */
+}
